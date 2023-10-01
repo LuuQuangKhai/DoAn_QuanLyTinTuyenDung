@@ -1,0 +1,15 @@
+C:\Users\defaultuser0.LAPTOP-POTNR7PE\OneDrive\Desktop\HK7\NoSQL\DoAn_QuanLyTuyenDung\DoAn_QuanLyTuyenDung\bin\Debug\DoAn_QuanLyTuyenDung.exe.config
+C:\Users\defaultuser0.LAPTOP-POTNR7PE\OneDrive\Desktop\HK7\NoSQL\DoAn_QuanLyTuyenDung\DoAn_QuanLyTuyenDung\bin\Debug\DoAn_QuanLyTuyenDung.exe
+C:\Users\defaultuser0.LAPTOP-POTNR7PE\OneDrive\Desktop\HK7\NoSQL\DoAn_QuanLyTuyenDung\DoAn_QuanLyTuyenDung\bin\Debug\DoAn_QuanLyTuyenDung.pdb
+C:\Users\defaultuser0.LAPTOP-POTNR7PE\OneDrive\Desktop\HK7\NoSQL\DoAn_QuanLyTuyenDung\DoAn_QuanLyTuyenDung\obj\Debug\DoAn_QuanLyTuyenDung.csprojResolveAssemblyReference.cache
+C:\Users\defaultuser0.LAPTOP-POTNR7PE\OneDrive\Desktop\HK7\NoSQL\DoAn_QuanLyTuyenDung\DoAn_QuanLyTuyenDung\obj\Debug\DoAn_QuanLyTuyenDung.Properties.Resources.resources
+C:\Users\defaultuser0.LAPTOP-POTNR7PE\OneDrive\Desktop\HK7\NoSQL\DoAn_QuanLyTuyenDung\DoAn_QuanLyTuyenDung\obj\Debug\DoAn_QuanLyTuyenDung.csproj.GenerateResource.Cache
+C:\Users\defaultuser0.LAPTOP-POTNR7PE\OneDrive\Desktop\HK7\NoSQL\DoAn_QuanLyTuyenDung\DoAn_QuanLyTuyenDung\obj\Debug\DoAn_QuanLyTuyenDung.exe
+C:\Users\defaultuser0.LAPTOP-POTNR7PE\OneDrive\Desktop\HK7\NoSQL\DoAn_QuanLyTuyenDung\DoAn_QuanLyTuyenDung\obj\Debug\DoAn_QuanLyTuyenDung.pdb
+C:\Users\defaultuser0.LAPTOP-POTNR7PE\OneDrive\Desktop\HK7\NoSQL\DoAn_QuanLyTuyenDung\DoAn_QuanLyTuyenDung\obj\Debug\DoAn_QuanLyTuyenDung.GUI.TrangChu_GUI.resources
+C:\Users\defaultuser0.LAPTOP-POTNR7PE\OneDrive\Desktop\HK7\NoSQL\DoAn_QuanLyTuyenDung\DoAn_QuanLyTuyenDung\obj\Debug\DoAn_QuanLyTuyenDung.GUI.KetQuaTuyenDung_GUI.resources
+C:\Users\defaultuser0.LAPTOP-POTNR7PE\OneDrive\Desktop\HK7\NoSQL\DoAn_QuanLyTuyenDung\DoAn_QuanLyTuyenDung\obj\Debug\DoAn_QuanLyTuyenDung.GUI.TrangTuyenDung_GUI.resources
+C:\Users\defaultuser0.LAPTOP-POTNR7PE\OneDrive\Desktop\HK7\NoSQL\DoAn_QuanLyTuyenDung\DoAn_QuanLyTuyenDung\obj\Debug\DoAn_QuanLyTuyenDung.GUI.ChiTietTuyenDung_GUI.resources
+C:\Users\defaultuser0.LAPTOP-POTNR7PE\OneDrive\Desktop\HK7\NoSQL\DoAn_QuanLyTuyenDung\DoAn_QuanLyTuyenDung\obj\Debug\DoAn_QuanLyTuyenDung.GUI.DangNhap_GUI.resources
+C:\Users\defaultuser0.LAPTOP-POTNR7PE\OneDrive\Desktop\HK7\NoSQL\DoAn_QuanLyTuyenDung\DoAn_QuanLyTuyenDung\obj\Debug\DoAn_QuanLyTuyenDung.GUI.UngTuyen_GUI.resources
+C:\Users\defaultuser0.LAPTOP-POTNR7PE\OneDrive\Desktop\HK7\NoSQL\DoAn_QuanLyTuyenDung\DoAn_QuanLyTuyenDung\obj\Debug\DoAn_QuanLyTuyenDung.GUI.GiaoDienQuanLy_GUI.resources
